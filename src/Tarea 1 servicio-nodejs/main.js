@@ -1,4 +1,4 @@
-const user = {username: 'Ricardo', age: 20, password: '123456'}
+const users = require('../models/userModel');
 const http = require('http');
 const port = 3000;
 
