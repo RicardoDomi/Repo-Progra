@@ -1,3 +1,4 @@
+const users = require('../models/userModel');
 const http = require('http');
 const PORT = 3000;
 const users = [
