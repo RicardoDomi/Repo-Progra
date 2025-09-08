@@ -1,3 +1,4 @@
+const users = require('../models/userModel');
 const http = require('http');
 const port = 3000;
 const {Sequelize} =require('sequelize');
